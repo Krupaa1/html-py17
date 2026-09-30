@@ -1,0 +1,19 @@
+h1{
+    color: green;
+    text-align: center;
+
+}
+.parag{
+    border:3px solid rgb(54, 75, 143) ;
+    padding: 25px;
+   
+    margin: 10px;
+    width: 50%;
+    
+
+    text-align: center;
+    text-align: justify; 
+    
+    
+    
+}
